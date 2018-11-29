@@ -55,6 +55,7 @@
   <ItemGroup>
      <Compile Include="Assets\Enemy Assets\EnemySpawner.cs" />
      <Compile Include="Assets\Enemy Assets\Monster.cs" />
+     <Compile Include="Assets\LocalPlayer.cs" />
      <Compile Include="Assets\Oculus\VR\Scripts\Composition\OVRCameraComposition.cs" />
      <Compile Include="Assets\Oculus\VR\Scripts\Composition\OVRComposition.cs" />
      <Compile Include="Assets\Oculus\VR\Scripts\Composition\OVRCompositionUtil.cs" />
@@ -134,16 +135,16 @@
      <None Include="Assets\Oculus\VR\Resources\Underlay Impostor.shader" />
      <None Include="Assets\Oculus\VR\Plugins\placeholder.txt" />
  <Reference Include="UnityEditor.StandardEvents">
- <HintPath>/Users/zacharybroeg/Desktop/VRGAMEWITHVRINIT/VRGAME/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
+ <HintPath>/Users/zacharybroeg/Documents/GitHub/VRGAMEWITHVR/VRGAMEWITHVRINIT/VRGAME/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
  </Reference>
  <Reference Include="Unity.TextMeshPro.Editor">
- <HintPath>/Users/zacharybroeg/Desktop/VRGAMEWITHVRINIT/VRGAME/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+ <HintPath>/Users/zacharybroeg/Documents/GitHub/VRGAMEWITHVR/VRGAMEWITHVRINIT/VRGAME/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.PackageManagerUI.Editor">
- <HintPath>/Users/zacharybroeg/Desktop/VRGAMEWITHVRINIT/VRGAME/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+ <HintPath>/Users/zacharybroeg/Documents/GitHub/VRGAMEWITHVR/VRGAMEWITHVRINIT/VRGAME/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.TextMeshPro">
- <HintPath>/Users/zacharybroeg/Desktop/VRGAMEWITHVRINIT/VRGAME/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+ <HintPath>/Users/zacharybroeg/Documents/GitHub/VRGAMEWITHVR/VRGAMEWITHVRINIT/VRGAME/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.AIModule">
  <HintPath>/Applications/Unity/Unity.app/Contents/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
